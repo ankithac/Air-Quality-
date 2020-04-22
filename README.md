@@ -1,2 +1,2 @@
 # Air-Quality-
-Air quality analysis - ML with Python
+With all the different Attributes, predict the Air Quality using Linear Regression Model.
